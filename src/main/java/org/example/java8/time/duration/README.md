@@ -1,6 +1,6 @@
 # JAVA 8v - java.time.Duration
 
-java8에서 추가된 time 패키지의 Duration 클래스에 대해 간략히 알아보자
+java8에서 추가된 time 패키지의 Duration 클래스에 대해서
 
 ## Table of Contents
 
@@ -15,4 +15,4 @@ java8에서 추가된 time 패키지의 Duration 클래스에 대해 간략히 �
 
 ## 특징
 1. 정수형으로 표현할때 보다 코드가 명확하고 확장가능하다. 
-2. Duration은 초, 나노초로 시간의 양을 표현한다.([period](#)와 다름)
+2. Duration은 초, 나노초로 시간의 양을 표현한다.([period](https://github.com/Eechul/java_note/tree/main/src/main/java/org/example/java8/time/period)와 다름)
